@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694462883937",
+    "project_id": "rentacab-7cbdf",
+    "storage_bucket": "rentacab-7cbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694462883937:android:0b16235029c6a9481a6220",
+        "android_client_info": {
+          "package_name": "com.example.rentacab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694462883937-8e6rmqg1uk03bm4pnmi9kh17uns8sgok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3SrHN2lxZ6J-Sp3cnHeOhyvLwcITeA-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694462883937-8e6rmqg1uk03bm4pnmi9kh17uns8sgok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

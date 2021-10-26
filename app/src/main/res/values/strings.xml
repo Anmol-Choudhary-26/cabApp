@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RentACab</string>
+    <string name="exit">Sign Up</string>
+
+    <string name="register">REGISTER</string>
+    <string name="rent_a_cab">RENT A CAB</string>
+
+    <string name="login">LOGIN</string>
+
+    <string name="password"> enter password</string>
+    <string name="confirm_password">enter password</string>
+    <string name="Enter_email">enter email</string>
+    <string name="enter_name">enter name</string>
+</resources>
